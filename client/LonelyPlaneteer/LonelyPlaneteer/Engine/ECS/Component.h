@@ -1,0 +1,14 @@
+#pragma once
+#include "ECS.h"
+#include "../../Game/Components/TransformComponent.h"
+#include "../../Game/Components/SpriteComponent.h"
+#include "../../Game/Components/SightComponent.h"
+#include "../../Game/Components/InputComponent.h"
+//#include "MouseController.h"
+#include "../../Game/Components/MovementColliderComponent.h"
+#include "../../Game/Components/ColliderComponent.h"
+#include "../../Game/Components/HealthComponent.h"
+#include "../../Game/Components/CombatComponent.h"
+#include "../../Game/Components/GamepadInputComponent.h"
+/*#include "Animation.h"
+#include "HealthComponent.h"*/
